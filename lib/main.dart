@@ -10,6 +10,11 @@ void main() {
           title: Text('I Am Rich'),
           backgroundColor: const Color.fromARGB(255, 23, 138, 196),
         ),
+        body: Center(
+          child: Image(
+              image: NetworkImage(
+                  'https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg')),
+        ),
       ),
     ),
   );
