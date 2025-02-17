@@ -7,6 +7,11 @@ process <img width="1365" alt="image" src="https://github.com/user-attachments/a
 med asset image:
 <img width="455" alt="image" src="https://github.com/user-attachments/assets/0ecec200-130c-496f-8eb7-87a19e50dffb" />
 
+
+lært at ændre icon til noget selvvalgt på ios og android:
+<img width="285" alt="image" src="https://github.com/user-attachments/assets/d44aa55d-2607-4b51-bb8e-36d4fa91c75c" />
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
